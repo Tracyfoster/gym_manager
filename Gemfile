@@ -32,7 +32,7 @@ gem 'bcrypt', '~> 3.1.7'
 gem "audited", "~> 4.9"
 
 # For Image Storage variant
-gem 'carrierwave', '>= 2.0.0.rc', '< 3.0'
+gem 'carrierwave'
 gem 'file_validators'
 gem 'wicked_pdf', '~> 1.1'
 gem 'wkhtmltopdf-binary'
